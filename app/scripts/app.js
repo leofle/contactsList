@@ -25,7 +25,7 @@ myapp.config(function ($routeProvider) {
         controller: 'MainCtrl'
       })
       .when('/דיגיטל', {
-        templateUrl: 'views/main.html',
+        templateUrl: 'views/none.html',
         controller: 'MainCtrl'
       })
       .otherwise({
