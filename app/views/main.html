@@ -1,0 +1,11 @@
+<ul class="contact_list" style="height:50px;" ng-repeat="todo in content | filter: SelectModel.value | orderObjectBy: 'img' ">
+    <li class="contName picp{{$index}} {{ todo.sex }} " style="background-image: url(images/faces/p{{ todo.img }}.jpg);">
+      <img class="cover_pic" src="images/c1.png" alt="cover">{{ todo.name }}
+    </li>
+    <li class="contPosition">{{ todo.position }}</li>
+    <li class="contDivision">{{ todo.division }}</li>
+    <li class="contPhone"><a href="tel:{{ todo.phone }}">{{ todo.phone }}</a></li>
+    <li class="contInt">{{ todo.internal }}</li>
+    <li class="contEmail"><a href="mailto:{{ todo.email }}">{{ todo.email }}</a>
+    </li>
+</ul>
