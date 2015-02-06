@@ -34,7 +34,7 @@ ng-options="opt as opt.label for opt in options" ng-change="update()">
 </span>
         <input type="hidden" id="active_value" value="{{ SelectModel.value }}">
         <div id="contact_table_names"></div>
-        <div id="contact_search_results" ng-view>
+        <div id="contact_search_results" ui-view>
         </div>
     </div>
 </div>
@@ -57,6 +57,7 @@ ng-options="opt as opt.label for opt in options" ng-change="update()">
     <script src="bower_components/angular-route/angular-route.js"></script>
     <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
     <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 

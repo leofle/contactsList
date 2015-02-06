@@ -15,20 +15,21 @@ var myapp = angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'ui.router'
   ]);
 
-myapp.config(function ($routeProvider) {
-    $routeProvider
-      .when('/כולם', {
-        templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
-      })
-      .when('/דיגיטל', {
-        templateUrl: 'views/none.html',
-        controller: 'MainCtrl'
-      })
-      .otherwise({
-        redirectTo: '/כולם'
-      });
+myapp.config(function ($stateProvider, $urlRouterProvider) {
+    $urlRouterProvider.otherwise('/all');
+    $stateProvider
+    .state('/all', {
+      url: '/all',
+      templateUrl: 'views/main.html'
+    })
+    .state('state1.list', {
+      url: '/list',
+      templateUrl: 'partials/state1.list.html',
+      controller: 'MainCtrl'
+    });
+
   });

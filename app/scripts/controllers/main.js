@@ -31,7 +31,7 @@ myapp.filter('orderObjectBy', function(){
 myapp.controller('MainCtrl',function($scope,$http){
     $scope.content = null;
     $http({method: 'GET', url: 'scripts/contact.json'}).
-        success(function(data, status, headers, config) {
+        success(function(data) {
             $scope.content=data;
           });
 
