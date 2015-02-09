@@ -1,4 +1,4 @@
-<ul class="contact_list" style="height:50px;" ng-repeat="todo in content | filter: SelectModel.value | orderObjectBy: 'img' ">
+<ul class="contact_list" style="height:50px;" ng-repeat="todo in content | orderObjectBy: 'img' ">
     <li class="contName picp{{$index}} {{ todo.sex }} " style="background-image: url(images/faces/p{{ todo.img }}.jpg);">
       <img class="cover_pic" src="images/c1.png" alt="cover">{{ todo.name }}
     </li>
