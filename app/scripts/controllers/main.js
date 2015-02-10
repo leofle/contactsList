@@ -30,7 +30,7 @@ myapp.filter('orderObjectBy', function(){
 
 myapp.controller('MainCtrl',function($scope,$http){
 
-    $http({method: 'GET', url: 'scripts/contact.json'}).
+    $http({method: 'GET', url: 'json/contact.json'}).
         success(function(data) {
             $scope.content=data;
           });
