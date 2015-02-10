@@ -1,7 +1,7 @@
           <input ng-model="searchText" class="searchInput" placeholder="Search by Anything:">
 
           <ul class="contact_list" style="height:50px;" ng-repeat="todo in content | filter: searchText  ">
-              <li class="contName picp{{$index}} {{ todo.sex }} " style="background-image: url(images/faces/p{{ todo.img }}.jpg);">
+              <li class="contName picp{{$index}} {{ todo.sex }} " style="background-image: url(images/faces/{{ todo.img }}.jpg);">
                 <img class="cover_pic" src="images/c1.png" alt="cover">{{ todo.name }}
               </li>
               <li class="contPosition">{{ todo.position }}</li>
