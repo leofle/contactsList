@@ -25,15 +25,7 @@
     <div id="bday_pop"></div>
     <div id="baby_pop"></div>
     <div id="central_banner"></div>
-    <div id="contact_search_btn" class="cyan_button"><a href="#/{{ SelectModel.value }}">חיפוש</a>
     </div>
-    <input style="position: absolute;" type="text" ng-model="test" value="">
-        <span class='css-select-moz'>
-<select name="search_select" id="search_select" ng-model="SelectModel"
-ng-options="opt as opt.label for opt in options" ng-change="update()">
-</select>
-</span>
-        <input type="hidden" id="active_value" value="{{ SelectModel.value }}">
         <div id="contact_table_names"></div>
         <div id="contact_search_results" ui-view>
         </div>

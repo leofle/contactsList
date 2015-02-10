@@ -29,12 +29,10 @@ myapp.filter('orderObjectBy', function(){
 
 
 myapp.controller('MainCtrl',function($scope,$http){
-    $scope.content = null;
+
     $http({method: 'GET', url: 'scripts/contact.json'}).
         success(function(data) {
             $scope.content=data;
-            $scope.division = Object.keys(data.p1)[4];
-            console.log(Object.keys(data.p1)[4]);
           });
 
 

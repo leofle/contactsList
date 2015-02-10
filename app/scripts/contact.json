@@ -1,5 +1,5 @@
+[
 {
-  "p0": {
       "img":"0",
       "sex": "male",
       "name": "אודי פורת",
@@ -10,7 +10,7 @@
       "email": "udi@padv.co.il",
       "bday":"26/12/1978"
   },
-  "p1": {
+{
       "img":"1",
       "sex": "female",
       "name": "אורלי גבאי (לוי)",
@@ -21,7 +21,7 @@
       "email": "orly@padv.co.il",
       "bday":"29/12/1979"
   },
-  "p2": {
+{
       "img":"2",
       "sex": "female",
       "name": "איה זך",
@@ -32,7 +32,7 @@
       "email": "aya@padv.co.il",
       "bday":"25/04/1982"
   },
-  "p3": {
+{
       "img":"3",
       "sex": "male",
       "name": "איל לבנון",
@@ -43,7 +43,7 @@
       "email": "eyal@padv.co.il",
       "bday":"17/02/1981"
   },
-  "p4": {
+{
       "img":"4",
       "sex": "male",
       "name": "איציק נשיא",
@@ -54,7 +54,7 @@
       "email": "izik@padv.co.il",
       "bday":"18/11/1979"
   },
- "p5": {
+{
       "img":"5",
       "sex": "male",
       "name": "אלון קרקליס",
@@ -65,7 +65,7 @@
       "email": "alon@padv.co.il",
       "bday":"11/11/1979"
   },
- "p6": {
+{
       "img":"6",
       "sex": "male",
       "name": "אסף מזור",
@@ -76,7 +76,7 @@
       "email": "asaf@padv.co.il",
       "bday":"10/08/1979"
   },
- "p7": {
+{
       "img":"7",
       "sex": "male",
       "name": "אסף מסילתי",
@@ -87,7 +87,7 @@
       "email": "assaf@padv.co.il",
       "bday":"22/09/1979"
   },
- "p8": {
+{
       "img":"8",
       "sex": "female",
       "name": "אריאל טאוב",
@@ -98,7 +98,7 @@
       "email": "ariel@padv.co.il",
       "bday":"04/01/1979"
   },
- "p9": {
+{
       "img":"9",
       "sex": "male",
       "name": "בריאן וייס",
@@ -109,7 +109,7 @@
       "email": "brian@padv.co.il",
       "bday":"03/01/1979"
   },
- "p10": {
+{
       "img":"10",
       "sex": "male",
       "name": "דוני אלרון",
@@ -120,7 +120,7 @@
       "email": "dony@padv.co.il",
       "bday":"16/12/1979"
   },
- "p11": {
+{
       "img":"11",
       "sex": "female",
       "name": "דנה זמיר",
@@ -131,7 +131,7 @@
       "email": "danaz@padv.co.il",
       "bday":"27/07/1979"
   },
- "p12": {
+{
       "img":"12",
       "sex": "female",
       "name": "דנה חזות",
@@ -142,7 +142,7 @@
       "email": "danah@padv.co.il",
       "bday":"20/12/1979"
   },
- "p13": {
+{
       "img":"13",
       "sex": "female",
       "name": "דפנה זלצר",
@@ -153,7 +153,7 @@
       "email": "daphna@padv.co.il",
       "bday":"22/04/1979"
   },
-"p14": {
+{
       "img":"14",
       "sex": "female",
       "name": "הדס ז׳ורינם",
@@ -164,7 +164,7 @@
       "email": "adas@padv.co.il",
       "bday":"13/08/1979"
   },
-"p15": {
+{
       "img":"15",
       "sex": "female",
       "name": "הלה שלג",
@@ -175,7 +175,7 @@
       "email": "hila@padv.co.il",
       "bday":"18/02/1982"
   },
-"p16": {
+{
       "img":"16",
       "sex": "female",
       "name": "חני בן ישי",
@@ -186,7 +186,7 @@
       "email": "hany@padv.co.il",
       "bday":"21/03/1979"
   },
-  "p17": {
+{
       "img":"17",
       "sex": "female",
       "name": "יוליה וולך",
@@ -197,7 +197,7 @@
       "email": "julia@padv.co.il",
       "bday":"24/03/1979"
   },
-"p18": {
+{
       "img":"18",
       "sex": "male",
       "name": "יניב קאוה",
@@ -208,7 +208,7 @@
       "email": "yaniv@padv.co.il",
       "bday":"14/07/1979"
   },
-"p19": {
+{
       "img":"19",
       "sex": "male",
       "name": "יקי מזור",
@@ -219,7 +219,7 @@
       "email": "yaki@padv.co.il",
       "bday":"08/02/1978"
   },
-"p20": {
+{
       "img":"20",
       "sex": "female",
       "name": "כרמן רפאל",
@@ -230,7 +230,7 @@
       "email": "carmen@padv.co.il",
       "bday":"16/03/1979"
   },
-"p21": {
+{
       "img":"21",
       "sex": "male",
       "name": "ליאו פליישמן",
@@ -241,7 +241,7 @@
       "email": "lio@padv.co.il",
       "bday":"27/06/1979"
   },
-"p22": {
+{
       "img":"22",
       "sex": "male",
       "name": "ליאור קורט",
@@ -252,7 +252,7 @@
       "email": "lior@padv.co.il",
       "bday":"28/06/1975"
   },
-"p23": {
+{
       "img":"23",
       "sex": "female",
       "name": "ליאת אופיר",
@@ -263,7 +263,7 @@
       "email": "liato@padv.co.il",
       "bday":"06/08/1979"
   },
-"p24": {
+{
       "img":"24",
       "sex": "female",
       "name": "ליאת לוי",
@@ -274,7 +274,7 @@
       "email": "liat@padv.co.il",
       "bday":"15/09/1979"
   },
-"p25": {
+{
       "img":"25",
       "sex": "female",
       "name": "לימור חליווה",
@@ -285,7 +285,7 @@
       "email": "limor@padv.co.il",
       "bday":"23/05/1979"
   },
-"p26": {
+{
       "img":"26",
       "sex": "female",
       "name": "לירון גולדוואסר",
@@ -296,7 +296,7 @@
       "email": "liron@padv.co.il",
       "bday":"03/05/1979"
   },
-"p27": {
+{
       "img":"27",
       "sex": "female",
       "name": "לירון הרטמן",
@@ -307,7 +307,7 @@
       "email": "liron.h@padv.co.il",
       "bday":"17/02/1979"
   },
-"p28": {
+{
       "img":"28",
       "sex": "female",
       "name": "מור גרתי קוגן",
@@ -318,7 +318,7 @@
       "email": "mor@padv.co.il",
       "bday":"19/06/1979"
   },
-"p29": {
+{
       "img":"29",
       "sex": "female",
       "name": "מיכל רוטמן",
@@ -329,7 +329,7 @@
       "email": "michal.r@padv.co.il",
       "bday":"12/06/1979"
   },
-"p30": {
+{
       "img":"30",
       "sex": "female",
       "name": "מרינה רז",
@@ -340,7 +340,7 @@
       "email": "marina@padv.co.il",
       "bday":"16/05/1979"
   },
-"p31": {
+{
       "img":"31",
       "sex": "female",
       "name": "מרסל דהן",
@@ -351,7 +351,7 @@
       "email": "marcel@padv.co.il",
       "bday":"16/06/1979"
   },
-"p32": {
+{
       "img":"32",
       "sex": "female",
       "name": "נעמה פרומר",
@@ -362,7 +362,7 @@
       "email": "naama.f@padv.co.il",
       "bday":"29/11/1979"
   },
-"p33": {
+{
       "img":"33",
       "sex": "female",
       "name": "סהר גנאור",
@@ -373,7 +373,7 @@
       "email": "sahar@padv.co.il",
       "bday":"24/07/1979"
   },
-"p34": {
+{
       "img":"34",
       "sex": "male",
       "name": "סרגיי גוריננקו",
@@ -384,7 +384,7 @@
       "email": "sergey@padv.co.il",
       "bday":"08/02/1979"
   },
-"p35": {
+{
       "img":"35",
       "sex": "female",
       "name": "עדי אהרוניאן",
@@ -395,7 +395,7 @@
       "email": "adi@padv.co.il",
       "bday":"25/02/1979"
   },
-"p36": {
+{
       "img":"36",
       "sex": "female",
       "name": "עדי צמח",
@@ -406,7 +406,7 @@
       "email": "adi.z@padv.co.il",
       "bday":"08/06/1979"
   },
-"p37": {
+{
       "img":"37",
       "sex": "female",
       "name": "עדי תשרי",
@@ -417,7 +417,7 @@
       "email": "adit@padv.co.il",
       "bday":"01/11/1979"
   },
-"p38": {
+{
       "img":"38",
       "sex": "male",
       "name": "עודד טרטמן",
@@ -428,7 +428,7 @@
       "email": "oded@padv.co.il",
       "bday":"29/12/1979"
   },
-"p39": {
+{
       "img":"39",
       "sex": "male",
       "name": "עומר לביא",
@@ -439,7 +439,7 @@
       "email": "omer@padv.co.il",
       "bday":"25/07/1979"
   },
-"p40": {
+{
       "img":"40",
       "sex": "male",
       "name": "עזרא אללו",
@@ -450,7 +450,7 @@
       "email": "ezra@padv.co.il",
       "bday":"14/10/1979"
   },
-"p41": {
+{
       "img":"41",
       "sex": "female",
       "name": "עידית מסוורי",
@@ -461,7 +461,7 @@
       "email": "idit@padv.co.il",
       "bday":"01/05/1979"
   },
-"p42": {
+{
       "img":"42",
       "sex": "male",
       "name": "פאשה פרלמן",
@@ -472,7 +472,7 @@
       "email": "pavel@padv.co.il",
       "bday":"06/11/1979"
   },
-"p43": {
+{
       "img":"43",
       "sex": "male",
       "name": "רומן חנוכייב",
@@ -483,7 +483,7 @@
       "email": "roman@padv.co.il",
       "bday":"24/09/1979"
   },
-"p44": {
+{
       "img":"44",
       "sex": "female",
       "name": "רונה שגיא",
@@ -494,7 +494,7 @@
       "email": "rona@padv.co.il",
       "bday":"25/10/1979"
   },
-"p45": {
+{
       "img":"45",
       "sex": "male",
       "name": "רפי מימרן",
@@ -505,7 +505,7 @@
       "email": "rafi@padv.co.il",
       "bday":"25/08/1979"
   },
-"p46": {
+{
       "img":"46",
       "sex": "female",
       "name": "שיר בנימין",
@@ -516,7 +516,7 @@
       "email": "shir@padv.co.il",
       "bday":"06/04/1979"
   },
-"p47": {
+{
       "img":"47",
       "sex": "female",
       "name": "שירלי אלרון",
@@ -527,7 +527,7 @@
       "email": "shirly@padv.co.il",
       "bday":"17/09/1979"
   },
-"p48": {
+{
       "img":"48",
       "sex": "female",
       "name": "שירלי בן-ארי",
@@ -538,7 +538,7 @@
       "email": "shirlyb@padv.co.il",
       "bday":"05/08/1979"
   },
-"p49": {
+{
       "img":"49",
       "sex": "male",
       "name": "שלומי הוניג",
@@ -549,7 +549,7 @@
       "email": "shclomi@padv.co.il",
       "bday":"31/12/1975"
   },
-"p50": {
+{
       "img":"50",
       "sex": "female",
       "name": "שרית גנץ",
@@ -560,4 +560,4 @@
       "email": "sarit@padv.co.il",
       "bday":"04/09/1979"
   }
-}
+]
