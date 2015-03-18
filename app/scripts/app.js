@@ -4,7 +4,7 @@
  * @ngdoc overview
  * @name angappApp
  * @description
- * # angappApp
+ * #angappApp
  *
  * Main module of the application.
  */
