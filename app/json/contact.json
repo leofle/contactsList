@@ -2,7 +2,7 @@
 {
       "img":"p1",
       "sex": "female",
-      "name": "jane connor",
+      "name": "Jane Connor",
       "position": " - ",
       "division": "carpenter",
       "phone": "555-555554",
@@ -13,12 +13,23 @@
 {
       "img":"p1",
       "sex": "male",
-      "name": "john connor",
-      "position": " - ",
-      "division": "graphic design",
+      "name": "John Connor",
+      "position": "World Saver",
+      "division": " - ",
       "phone": "555-555555",
       "internal":"101",
       "email": "john@mail.com",
       "bday":"14/12/1979"
+  },
+{
+      "img":"p1",
+      "sex": "male",
+      "name": "will Smith",
+      "position": "Rapper - Actor - Performer",
+      "division": "",
+      "phone": "555-555555",
+      "internal":"101",
+      "email": "bigwilly@mail.com",
+      "bday":"14/12/1969"
   }
 ]
